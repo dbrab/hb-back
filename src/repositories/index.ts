@@ -9,3 +9,4 @@ export * from './user-extra.repository';
 export * from './user.repository';
 export * from './user-credentials.repository';
 export * from './file.repository';
+export * from './button-feed.repository';

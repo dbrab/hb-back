@@ -10,3 +10,4 @@ export * from './user-extra.model';
 export * from './user.model'
 export * from './user-credentials.model';
 export * from './file.model';
+export * from './button-feed.model';
